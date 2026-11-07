@@ -36,6 +36,12 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />  
 </p><br>
 
+<h4 align="left">Проекты:</h3>
+- планировщик задач (Python, FastAPi, PostgreSQL, Docker, Git, деплой);<br>
+- программа по кластеризации клиентов (Rlang);<br>
+- парсинг сайтов;<br>
+- серверная часть телаграм-бота.<br>
+
 <h4 align="left">Курсы:</h3>
 
 [SQL для Анализа Данных с Глебом Михайловым](https://stepik.org/course/116332/syllabus) ||
