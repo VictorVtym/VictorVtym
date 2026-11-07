@@ -44,23 +44,15 @@
 
 <h4 align="left">Курсы:</h3>
 
-[SQL для Анализа Данных с Глебом Михайловым](https://stepik.org/course/116332/syllabus) ||
-[Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus) ||
-[Основы статистики](https://stepik.org/course/76/syllabus) ||
-[Основы статистики, часть 2](https://stepik.org/course/524/syllabus) ||
-[Анализ данных в R](https://stepik.org/course/129/syllabus) ||
-[FastAPI для начинающих](https://stepik.org/course/180000/syllabus) ||
-[WEB Парсинг на Python](https://stepik.org/course/104774/syllabus) ||
-[Телеграм-боты на Python и AIOgram](https://stepik.org/course/120924/syllabus) ||
-[ООП: Объектно-ориентированное программирование на Python](https://stepik.org/course/114354/syllabus) ||
-[Основы работы с Git и GitHub](https://stepik.org/course/125248/syllabus) ||
-[Pandas на финансовых данных](https://stepik.org/course/177903/syllabus) ||
-[Функциональное программирование на Python](https://stepik.org/course/195619/syllabus) ||
-[Продвинутый python: заряди свои батарейки](https://stepik.org/course/127822/syllabus) ||
-[Инди-курс программирования на Python](https://stepik.org/course/63085/syllabus) ||
-[Основы статистики. Часть 3](https://stepik.org/course/2152/syllabus) ||
-[Анализ данных в R. Часть 2](https://stepik.org/course/724/syllabus) ||
-[Основы программирования на R](https://stepik.org/course/497/syllabus) ||
+[SQL для Анализа Данных с Глебом Михайловым](https://stepik.org/course/116332/syllabus) || [Интерактивный тренажер по SQL](https://stepik.org/course/63054/syllabus) ||
+[Основы статистики](https://stepik.org/course/76/syllabus) || [Основы статистики, часть 2](https://stepik.org/course/524/syllabus) ||
+[Анализ данных в R](https://stepik.org/course/129/syllabus) || [FastAPI для начинающих](https://stepik.org/course/180000/syllabus) ||
+[WEB Парсинг на Python](https://stepik.org/course/104774/syllabus) || [Телеграм-боты на Python и AIOgram](https://stepik.org/course/120924/syllabus) ||
+[ООП: Объектно-ориентированное программирование на Python](https://stepik.org/course/114354/syllabus) || [Основы работы с Git и GitHub](https://stepik.org/course/125248/syllabus) ||
+[Pandas на финансовых данных](https://stepik.org/course/177903/syllabus) || [Функциональное программирование на Python](https://stepik.org/course/195619/syllabus) ||
+[Продвинутый python: заряди свои батарейки](https://stepik.org/course/127822/syllabus) || [Инди-курс программирования на Python](https://stepik.org/course/63085/syllabus) ||
+[Основы статистики. Часть 3](https://stepik.org/course/2152/syllabus) || [Анализ данных в R. Часть 2](https://stepik.org/course/724/syllabus) ||
+[Основы программирования на R](https://stepik.org/course/497/syllabus) || [Алгоритмы и структуры данных ](https://www.youtube.com/watch?v=hXYHZVMHec0)
 [Статистика с Глебом Михайловым](https://www.youtube.com/watch?v=S3WAjnBC6CI&list=PLQJ7ptkRY-xbHLLI66KdscKp_FJt0FsIi) || [Твой JavaScript](https://stepik.org/course/210361/syllabus)
 
 <h34 align="left">Образование:</h3>
