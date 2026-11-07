@@ -1,5 +1,5 @@
 <h2 align="left">Добрый день 👋, меня зовут Виктор!</h1>
-<h3 align="left">Я начинающий, но очень увлечённый, разработик</h3>
+<h3 align="left">Я начинающий, но очень увлечённый, backend-разработик</h3>
 
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/9f156e64-b94a-436e-b051-ea4bdb7d7688" />
 
@@ -34,11 +34,10 @@
 
 
 
-
 <h3 align="left">Контакты:</h3>
 <p align="left">
-  <a href="https://www.github.com/VictorVtym" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>
-  <a href="https://www.github.com/VictorVtym" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" height="30" width="32" /></a>
-  <a href="https://leetcode.com/u/VictrorVtym/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="32" /></a>
-  <a href="https://www.codewars.com/users/VictorVtym" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c4f3c348-d11f-44bc-a24e-f4a0326eef9a" height="30" width="32" /></a>
+  <a href="https://www.github.com/VictorVtym" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="30" width="32" alt="GitHub" title="GitHub" /></a>
+  <a href="https://leetcode.com/u/VictrorVtym/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="32" alt="LeetCode" title="LeetCode" /></a>
+  <a href="https://www.codewars.com/users/VictorVtym" target="blank"><img align="center" src="https://github.com/user-attachments/assets/c4f3c348-d11f-44bc-a24e-f4a0326eef9a" height="30" width="32" alt="Codewars" title="Codewars" /></a>
+  <a href="https://vk.ru/vtym84" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8f360726-5aa0-44b8-9096-c1c5f46b53d6" height="30" width="32" alt="VK" title="VK" /></a>
 </p>
